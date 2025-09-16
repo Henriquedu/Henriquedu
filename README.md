@@ -7,8 +7,7 @@ Graduado em ADS e cursando Gestão de TI na PUCPR, atuo como Técnico de Suporte
 
 Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, CSS e JavaScript
 
-Meu perfil combina curiosidade técnica, aprendizado rápido e interesse por soluções que unam organização, pensamento lógico e impacto real para os usuários. Busco participar de projetos que me desafiem e contribuam para meu crescimento profissional.
-
+Gosto de desenvolver soluções que sejam bem organizadas, lógicas e que realmente façam diferença para quem usa. Estou sempre em busca de projetos que me desafiem e me ajudem a crescer profissionalmente.
 
 <p align="left">
   <a href="https://github.com/Henriquedu?tab=repositories&sort=stargazers">
