@@ -90,7 +90,7 @@ Gosto de desenvolver soluções que sejam bem organizadas, lógicas e que realme
  <img align="left" 
     alt="Linguagens mais usadas"
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   /> 
   
 </p>
