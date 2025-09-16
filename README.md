@@ -3,7 +3,7 @@
 
 **`Analista de dados`**
 
-Graduado em ADS e cursando Gestão de TI na PUCPR, atuo como Técnico de Suporte com foco constante em aprendizado e evolução na área de tecnologia. Tenho experiência prática em suporte técnico, mas quero migrar de área para me tornar um analista de dados.
+Graduado em ADS e cursando Gestão de TI na PUCPR, atuo com foco constante em aprendizado e evolução na área de tecnologia. Tenho experiência prática em suporte técnico, mas quero migrar de área para me tornar um analista de dados.
 
 Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, CSS e JavaScript
 
