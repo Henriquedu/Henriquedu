@@ -1,10 +1,11 @@
+
 # 🧑🏽‍💻 Henrique Eduadro da Maia
 
 **`Analista de dados`**
 
 Graduado em ADS e cursando Gestão de TI na PUCPR, atuo como Técnico de Suporte com foco constante em aprendizado e evolução na área de tecnologia. Tenho experiência prática em suporte técnico, mas quero migrar de área para me tornar um analista de dados.
 
-Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, C# e Cloud.
+Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, CSS e JavaScript
 
 Meu perfil combina curiosidade técnica, aprendizado rápido e interesse por soluções que unam organização, pensamento lógico e impacto real para os usuários. Busco participar de projetos que me desafiem e contribuam para meu crescimento profissional.
 
@@ -40,6 +41,13 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e interesse por sol
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
