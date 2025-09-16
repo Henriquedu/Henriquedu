@@ -1,16 +1,94 @@
-## Hi there 👋
 
-<!--
-**Henriquedu/Henriquedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑🏽‍💻 Henrique Eduadro da Maia
 
-Here are some ideas to get you started:
+**`Analista de dados`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduado em ADS e cursando Gestão de TI na PUCPR, atuo como Técnico de Suporte com foco constante em aprendizado e evolução na área de tecnologia. Tenho experiência prática em suporte técnico, mas quero migrar de área para me tornar um analista de dados.
+
+Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, JAVA, C# e Cloud.
+
+Meu perfil combina curiosidade técnica, aprendizado rápido e interesse por soluções que unam organização, pensamento lógico e impacto real para os usuários. Busco participar de projetos que me desafiem e contribuam para meu crescimento profissional.
+
+
+<p align="left">
+  <a href="https://github.com/AnaBeatrizVictorio?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/AnaBeatrizVictorio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a>
+  <a href="https://github.com/AnaBeatrizVictorio?tab=followers"> 
+    <img alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
+</p>
+
+
+---
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Henriquedu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  /> 
+
+ <img 
+    align="left" 
+    alt="GitHub Stats" 
+    width="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/> 
+
+</p>
+
+    
