@@ -1,24 +1,26 @@
-# 🧑🏽‍💻 Henrique Eduadro da Maia
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-**`Analista de dados`**
 
-Graduado em ADS e cursando Gestão de TI na PUCPR, atuo com foco constante em aprendizado e evolução na área de tecnologia. Tenho experiência prática em suporte técnico, mas quero migrar de área para me tornar um analista de dados.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Henrique+Eduardo+Maia;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-Em meus conhecimentos possuo vivencia em Python, SQL, Excel, Power BI, e estou realizando cursos para melhorar meus conhecimentos em HTML, CSS e JavaScript
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henriquedu&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedu&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-Gosto de desenvolver soluções que sejam bem organizadas, lógicas e que realmente façam diferença para quem usa. Estou sempre em busca de projetos que me desafiem e me ajudem a crescer profissionalmente.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henriquedu&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">
-  <a href="https://github.com/Henriquedu?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/Henriquedu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a>
+<p align="center">
   <a href="https://github.com/Henriquedu?tab=followers"> 
     <img alt="Seguidores" 
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/Henriquedu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
 </p>
 
-
+<div align="center">  
+<a href="https://www.instagram.com/henrique_maia_f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
 ---
 
 
@@ -83,22 +85,6 @@ Gosto de desenvolver soluções que sejam bem organizadas, lógicas e que realme
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Henriquedu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
