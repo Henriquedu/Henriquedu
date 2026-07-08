@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Henrique+Eduardo+da+Maia's+GitHub+Stats"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=600&height=30&lines=GitHub+Stats"
     alt="Henrique Eduardo da Maia's GitHub Stats"
   />
 
