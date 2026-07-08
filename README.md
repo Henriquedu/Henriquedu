@@ -4,7 +4,9 @@
 
 <div align="center">
 
-### GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
+</p>
 
 <img width="45%" src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only" alt="Henrique Maia GitHub Statistics"/>
 <img width="45%" src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Henrique Maia Languages Used"/>
@@ -54,4 +56,4 @@ Atualmente estudo e desenvolvo projetos utilizando Python, SQL, Power BI, JavaSc
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&bg_color=0d1117&&height=120&section=footer"/>
