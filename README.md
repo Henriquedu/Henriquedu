@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+JavaScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00BFBF&center=false&vCenter=true&repeat=false&width=500&height=25&lines=Henrique+Eduardo+da+Maia's+GitHub+Stats" alt="Henrique Eduardo da Maia's GitHub Stats"/>
 </p>
 
 <img width="45%" src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only" alt="Henrique Maia GitHub Statistics"/>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Henriquedu?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Henriquedu?color=00bfbf&labelColor=0d1117&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Henriquedu?color=00bfbf&labelColor=0d1117&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -50,10 +50,10 @@
 
 ### Sobre mim
 
-Analista de TI Júnior, estudante de Gestão de TI na PUCPR e focado em desenvolvimento, análise de dados e automação.
+Junior IT Analyst and IT Management student at PUCPR, focused on development, data analysis, and automation.
 
-Atualmente estudo e desenvolvo projetos utilizando Python, SQL, Power BI, JavaScript, HTML, CSS e React.
+I am currently studying and building projects using Python, SQL, Power BI, JavaScript, HTML, CSS, and React.
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&bg_color=0d1117&&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&bg_color=00bfbf&&height=120&section=footer"/>
