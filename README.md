@@ -14,12 +14,12 @@
   <img
     width="45%"
     src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only"
-    alt="Henrique Maia GitHub Statistics"
+    alt=" GitHub Statistics"
   />
   <img
     width="45%"
     src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/languages.svg#gh-dark-mode-only"
-    alt="Henrique Maia Languages Used"
+    alt=" Languages Used"
   />
 
 </div>
@@ -67,4 +67,4 @@ I am currently studying and building projects using Python, SQL, Power BI, JavaS
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&bg_color=00bfbf&&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&height=120&section=footer"/>
