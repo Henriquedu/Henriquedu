@@ -2,14 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+JavaScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<<div align="center">
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00BFBF&center=false&vCenter=true&repeat=false&width=500&height=25&lines=Henrique+Eduardo+da+Maia's+GitHub+Stats" alt="Henrique Eduardo da Maia's GitHub Stats"/>
-</p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Henrique+Eduardo+da+Maia's+GitHub+Stats"
+    alt="Henrique Eduardo da Maia's GitHub Stats"
+  />
 
-<img width="45%" src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only" alt="Henrique Maia GitHub Statistics"/>
-<img width="45%" src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Henrique Maia Languages Used"/>
+  <br/>
+
+  <img
+    width="45%"
+    src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only"
+    alt="Henrique Maia GitHub Statistics"
+  />
+  <img
+    width="45%"
+    src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/languages.svg#gh-dark-mode-only"
+    alt="Henrique Maia Languages Used"
+  />
 
 </div>
 
