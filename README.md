@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Henriquedu">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Henriquedu&theme=tokyo-night&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Henrique's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henriquedu&theme=tokyo-night&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Henrique's GitHub Activity Graph" />
   </a>
 </p>
 
