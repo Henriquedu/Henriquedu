@@ -29,12 +29,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Henriquedu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henriquedu&theme=tokyo-night&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Henrique's GitHub Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Henriquedu?tab=followers">
     <img alt="Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Henriquedu?color=00bfbf&labelColor=0d1117&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
   </a>
