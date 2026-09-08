@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+JavaScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+JavaScript;Be+Welcome!+:%29" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
@@ -14,17 +18,21 @@
   <img
     width="45%"
     src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/overview.svg#gh-dark-mode-only"
-    alt=" GitHub Statistics"
+    alt="GitHub Statistics"
   />
   <img
     width="45%"
     src="https://raw.githubusercontent.com/Henriquedu/github-stats/generated/languages.svg#gh-dark-mode-only"
-    alt=" Languages Used"
+    alt="Languages Used"
   />
 
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henriquedu&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/Henriquedu">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Henriquedu&theme=tokyo-night&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Henrique's GitHub Activity Graph" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Henriquedu?tab=followers">
@@ -43,20 +51,20 @@
 
 ---
 
-### Languages ​​and Technologies
+### Languages and Technologies
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<p align="left">
+  <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
 
-<br/>
-<br/>
 <br/>
 
 ### Sobre mim
@@ -67,4 +75,6 @@ I am currently studying and building projects using Python, SQL, Power BI, JavaS
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</p>
