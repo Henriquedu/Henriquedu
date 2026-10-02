@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+JavaScript;Be+Welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Henrique+Eduardo+Maia;IT+Support+Analyst+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+TypeScript+%7C+JavaScript;Be+Welcome!+:%29" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -51,6 +51,7 @@
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -65,7 +66,7 @@
 
 Junior IT Analyst and IT Management student at PUCPR, focused on development, data analysis, and automation.
 
-I am currently studying and building projects using Python, SQL, Power BI, JavaScript, HTML, CSS, and React.
+I am currently studying and building projects using Python, SQL, Power BI, TypeScript, JavaScript, HTML, CSS, and React.
 
 ---
 
