@@ -64,9 +64,9 @@
 
 ### Sobre mim
 
-Junior IT Analyst and IT Management student at PUCPR, focused on development, data analysis, and automation.
+Systems Analyst, with a background in IT support (ITIL, ServiceNow, Active Directory, Azure, Microsoft 365) and a growing focus on data analysis and automation.
 
-I am currently studying and building projects using Python, SQL, Power BI, TypeScript, JavaScript, HTML, CSS, and React.
+Graduate in Systems Analysis and Development and in IT Management from PUCPR. I build projects with Python, SQL, Power BI, JavaScript, HTML, CSS and React, and my goal is to work as a Data Analyst.
 
 ---
 
